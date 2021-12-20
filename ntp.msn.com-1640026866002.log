@@ -1,0 +1,2419 @@
+ntp?locale=it&title=Nuova scheda&fre=1&dsp=1&sp=Bing&startpage=1&PC=U531&OCID=MNHP_U531:20 
+        
+       Error getting wpo flights from ls for wpo_data_ adult_it_it_dhp_edgeChromium Error:TypeError: Cannot read properties of null (reading 'getItem')
+getWpoFlightsFromLocalStorage @ ntp?locale=it&title=Nuova scheda&fre=1&dsp=1&sp=Bing&startpage=1&PC=U531&OCID=MNHP_U531:20
+appendWpoFlightsToInfo @ ntp?locale=it&title=Nuova scheda&fre=1&dsp=1&sp=Bing&startpage=1&PC=U531&OCID=MNHP_U531:20
+qsFromDataAttributeHelper @ ntp?locale=it&title=Nuova scheda&fre=1&dsp=1&sp=Bing&startpage=1&PC=U531&OCID=MNHP_U531:20
+qsFromDataAttribute @ ntp?locale=it&title=Nuova scheda&fre=1&dsp=1&sp=Bing&startpage=1&PC=U531&OCID=MNHP_U531:20
+buildWebWorkerUrl @ ntp?locale=it&title=Nuova scheda&fre=1&dsp=1&sp=Bing&startpage=1&PC=U531&OCID=MNHP_U531:20
+init @ ntp?locale=it&title=Nuova scheda&fre=1&dsp=1&sp=Bing&startpage=1&PC=U531&OCID=MNHP_U531:20
+VrHr @ ntp?locale=it&title=Nuova scheda&fre=1&dsp=1&sp=Bing&startpage=1&PC=U531&OCID=MNHP_U531:20
+n @ ntp?locale=it&title=Nuova scheda&fre=1&dsp=1&sp=Bing&startpage=1&PC=U531&OCID=MNHP_U531:20
+(anonimo) @ ntp?locale=it&title=Nuova scheda&fre=1&dsp=1&sp=Bing&startpage=1&PC=U531&OCID=MNHP_U531:20
+(anonimo) @ ntp?locale=it&title=Nuova scheda&fre=1&dsp=1&sp=Bing&startpage=1&PC=U531&OCID=MNHP_U531:20
+ntp?locale=it&title=Nuova scheda&fre=1&dsp=1&sp=Bing&startpage=1&PC=U531&OCID=MNHP_U531:20 Error getting highest CBIDTypeError: Cannot read properties of null (reading 'getItem')
+ntp?locale=it&title=Nuova scheda&fre=1&dsp=1&sp=Bing&startpage=1&PC=U531&OCID=MNHP_U531:20 
+        
+       Error getting config hashes from ls: TypeError: Cannot read properties of null (reading 'getItem')
+buildArtifactHashes @ ntp?locale=it&title=Nuova scheda&fre=1&dsp=1&sp=Bing&startpage=1&PC=U531&OCID=MNHP_U531:20
+qsFromDataAttributeHelper @ ntp?locale=it&title=Nuova scheda&fre=1&dsp=1&sp=Bing&startpage=1&PC=U531&OCID=MNHP_U531:20
+qsFromDataAttribute @ ntp?locale=it&title=Nuova scheda&fre=1&dsp=1&sp=Bing&startpage=1&PC=U531&OCID=MNHP_U531:20
+buildWebWorkerUrl @ ntp?locale=it&title=Nuova scheda&fre=1&dsp=1&sp=Bing&startpage=1&PC=U531&OCID=MNHP_U531:20
+init @ ntp?locale=it&title=Nuova scheda&fre=1&dsp=1&sp=Bing&startpage=1&PC=U531&OCID=MNHP_U531:20
+VrHr @ ntp?locale=it&title=Nuova scheda&fre=1&dsp=1&sp=Bing&startpage=1&PC=U531&OCID=MNHP_U531:20
+n @ ntp?locale=it&title=Nuova scheda&fre=1&dsp=1&sp=Bing&startpage=1&PC=U531&OCID=MNHP_U531:20
+(anonimo) @ ntp?locale=it&title=Nuova scheda&fre=1&dsp=1&sp=Bing&startpage=1&PC=U531&OCID=MNHP_U531:20
+(anonimo) @ ntp?locale=it&title=Nuova scheda&fre=1&dsp=1&sp=Bing&startpage=1&PC=U531&OCID=MNHP_U531:20
+common.1979cbfd7caeb672e3a6.js:2495 
+        
+       Mon Dec 20 2021 19:45:19 GMT+0100 (Ora standard dell’Europa centrale): 1640025919602 {"id":36705,"severity":1,"pb":{"build":"20211218.25","appType":"edgeChromium","pcsVersion":"20211215.5_master","pcsEnv":"prod","buildAlias":"latest","customMessage":"columnArrangements[undefined] is undefined.columnArrangements: [{\"arrangement\":\"c1\",\"contentSizePx\":300,\"isFirstBreakpoint\":true},{\"arrangement\":\"c2\",\"contentSizePx\":624},{\"arrangement\":\"c3\",\"contentSizePx\":948},{\"arrangement\":\"c4\",\"contentSizePx\":1272},{\"arrangement\":\"c5\",\"contentSizePx\":1532}]; breakpoints: [320,628,936,1244,1552]"},"message":"Cannot read property arrangement of undefined"}
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:2495
+flush @ common.1979cbfd7caeb672e3a6.js:2495
+$e @ experience.2d939e7d2a587cac5ab9.js:199
+initializeTelemetry @ common.1979cbfd7caeb672e3a6.js:2495
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:2495
+Promise.then (async)
+setupLayoutTelemetry @ common.1979cbfd7caeb672e3a6.js:2495
+w @ common.1979cbfd7caeb672e3a6.js:2495
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+m @ common.1979cbfd7caeb672e3a6.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+n @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:2495
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+g @ common.1979cbfd7caeb672e3a6.js:2495
+(anonimo) @ experience.2d939e7d2a587cac5ab9.js:199
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+EqUV @ experience.2d939e7d2a587cac5ab9.js:199
+n @ experience.2d939e7d2a587cac5ab9.js:1
+a @ experience.2d939e7d2a587cac5ab9.js:1
+(anonimo) @ experience.2d939e7d2a587cac5ab9.js:1
+(anonimo) @ experience.2d939e7d2a587cac5ab9.js:1
+common.1979cbfd7caeb672e3a6.js:2495 
+        
+       Mon Dec 20 2021 19:45:19 GMT+0100 (Ora standard dell’Europa centrale): 1640025919607 {"id":36705,"severity":1,"pb":{"build":"20211218.25","appType":"edgeChromium","pcsVersion":"20211215.5_master","pcsEnv":"prod","buildAlias":"latest","customMessage":"columnArrangements[undefined] is undefined.columnArrangements: [{\"arrangement\":\"c1\",\"contentSizePx\":300,\"isFirstBreakpoint\":true},{\"arrangement\":\"c2\",\"contentSizePx\":624},{\"arrangement\":\"c3\",\"contentSizePx\":948},{\"arrangement\":\"c4\",\"contentSizePx\":1272},{\"arrangement\":\"c5\",\"contentSizePx\":1532}]; breakpoints: [320,628,936,1244,1552]"},"message":"Cannot read property arrangement of undefined"}
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:2495
+flush @ common.1979cbfd7caeb672e3a6.js:2495
+$e @ experience.2d939e7d2a587cac5ab9.js:199
+initializeTelemetry @ common.1979cbfd7caeb672e3a6.js:2495
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:2495
+Promise.then (async)
+setupLayoutTelemetry @ common.1979cbfd7caeb672e3a6.js:2495
+w @ common.1979cbfd7caeb672e3a6.js:2495
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+m @ common.1979cbfd7caeb672e3a6.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+n @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:2495
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+g @ common.1979cbfd7caeb672e3a6.js:2495
+(anonimo) @ experience.2d939e7d2a587cac5ab9.js:199
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+EqUV @ experience.2d939e7d2a587cac5ab9.js:199
+n @ experience.2d939e7d2a587cac5ab9.js:1
+a @ experience.2d939e7d2a587cac5ab9.js:1
+(anonimo) @ experience.2d939e7d2a587cac5ab9.js:1
+(anonimo) @ experience.2d939e7d2a587cac5ab9.js:1
+common.1979cbfd7caeb672e3a6.js:682 DOMException: Failed to read the 'localStorage' property from 'Window': Access is denied for this document.
+    at https://assets.msn.com/bundles/v1/edgeChromium/latest/common.1979cbfd7caeb672e3a6.js:682:185833
+    at y (https://assets.msn.com/bundles/v1/edgeChromium/latest/common.1979cbfd7caeb672e3a6.js:682:185965)
+    at HTMLElement.<anonymous> (https://assets.msn.com/bundles/v1/edgeChromium/latest/common.1979cbfd7caeb672e3a6.js:1:71147)
+    at Generator.next (<anonymous>)
+    at https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.d2fa022d6e442ac53a16.js:1:20843
+    at new Promise (<anonymous>)
+    at a (https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.d2fa022d6e442ac53a16.js:1:20588)
+    at HTMLElement.experienceConnected (https://assets.msn.com/bundles/v1/edgeChromium/latest/common.1979cbfd7caeb672e3a6.js:1:70301)
+    at HTMLElement.<anonymous> (https://assets.msn.com/bundles/v1/edgeChromium/latest/common.1979cbfd7caeb672e3a6.js:682:140986)
+    at Generator.next (<anonymous>)
+common.1979cbfd7caeb672e3a6.js:2495 
+        
+       Mon Dec 20 2021 19:45:19 GMT+0100 (Ora standard dell’Europa centrale): 1640025919898 {"id":36705,"severity":1,"pb":{"build":"20211218.25","appType":"edgeChromium","pcsVersion":"20211215.5_master","pcsEnv":"prod","buildAlias":"latest","customMessage":"columnArrangements[undefined] is undefined.columnArrangements: [{\"arrangement\":\"c1\",\"contentSizePx\":300,\"isFirstBreakpoint\":true},{\"arrangement\":\"c2\",\"contentSizePx\":624},{\"arrangement\":\"c3\",\"contentSizePx\":948},{\"arrangement\":\"c4\",\"contentSizePx\":1272},{\"arrangement\":\"c5\",\"contentSizePx\":1532}]; breakpoints: [320,628,936,1244,1552]"},"message":"Cannot read property arrangement of undefined"}
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:2495
+queueEvent @ common.1979cbfd7caeb672e3a6.js:2495
+sendAppErrorEvent @ common.1979cbfd7caeb672e3a6.js:2495
+indexToStandardConverter @ common.1979cbfd7caeb672e3a6.js:2495
+get currentColumnArrangement @ common.1979cbfd7caeb672e3a6.js:2495
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+experienceConnected @ common.1979cbfd7caeb672e3a6.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+initializeAsync @ common.1979cbfd7caeb672e3a6.js:682
+connectedCallback @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:2495
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+g @ common.1979cbfd7caeb672e3a6.js:2495
+(anonimo) @ experience.2d939e7d2a587cac5ab9.js:199
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+EqUV @ experience.2d939e7d2a587cac5ab9.js:199
+n @ experience.2d939e7d2a587cac5ab9.js:1
+a @ experience.2d939e7d2a587cac5ab9.js:1
+(anonimo) @ experience.2d939e7d2a587cac5ab9.js:1
+(anonimo) @ experience.2d939e7d2a587cac5ab9.js:1
+common.1979cbfd7caeb672e3a6.js:2495 
+        
+       Mon Dec 20 2021 19:45:20 GMT+0100 (Ora standard dell’Europa centrale): 1640025920095 {"id":36705,"severity":1,"pb":{"build":"20211218.25","appType":"edgeChromium","pcsVersion":"20211215.5_master","pcsEnv":"prod","buildAlias":"latest","customMessage":"columnArrangements[undefined] is undefined.columnArrangements: [{\"arrangement\":\"c1\",\"contentSizePx\":300,\"isFirstBreakpoint\":true},{\"arrangement\":\"c2\",\"contentSizePx\":624},{\"arrangement\":\"c3\",\"contentSizePx\":948},{\"arrangement\":\"c4\",\"contentSizePx\":1272},{\"arrangement\":\"c5\",\"contentSizePx\":1532}]; breakpoints: [320,628,936,1244,1552]"},"message":"Cannot read property arrangement of undefined"}
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:2495
+queueEvent @ common.1979cbfd7caeb672e3a6.js:2495
+sendAppErrorEvent @ common.1979cbfd7caeb672e3a6.js:2495
+indexToStandardConverter @ common.1979cbfd7caeb672e3a6.js:2495
+get currentColumnArrangement @ common.1979cbfd7caeb672e3a6.js:2495
+experienceConnected @ common.1979cbfd7caeb672e3a6.js:1273
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+initializeAsync @ common.1979cbfd7caeb672e3a6.js:682
+connectedCallback @ common.1979cbfd7caeb672e3a6.js:682
+define @ microsoft.55acafd989b4fba1402f.js:842
+define @ microsoft.55acafd989b4fba1402f.js:750
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+n @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+experienceConnected @ common.1979cbfd7caeb672e3a6.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+initializeAsync @ common.1979cbfd7caeb672e3a6.js:682
+connectedCallback @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:2495
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+g @ common.1979cbfd7caeb672e3a6.js:2495
+(anonimo) @ experience.2d939e7d2a587cac5ab9.js:199
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+EqUV @ experience.2d939e7d2a587cac5ab9.js:199
+n @ experience.2d939e7d2a587cac5ab9.js:1
+a @ experience.2d939e7d2a587cac5ab9.js:1
+(anonimo) @ experience.2d939e7d2a587cac5ab9.js:1
+(anonimo) @ experience.2d939e7d2a587cac5ab9.js:1
+common.1979cbfd7caeb672e3a6.js:2495 
+        
+       Mon Dec 20 2021 19:45:20 GMT+0100 (Ora standard dell’Europa centrale): 1640025920250 {"id":36705,"severity":1,"pb":{"build":"20211218.25","appType":"edgeChromium","pcsVersion":"20211215.5_master","pcsEnv":"prod","buildAlias":"latest","customMessage":"columnArrangements[undefined] is undefined.columnArrangements: [{\"arrangement\":\"c1\",\"contentSizePx\":300,\"isFirstBreakpoint\":true},{\"arrangement\":\"c2\",\"contentSizePx\":624},{\"arrangement\":\"c3\",\"contentSizePx\":948},{\"arrangement\":\"c4\",\"contentSizePx\":1272},{\"arrangement\":\"c5\",\"contentSizePx\":1532}]; breakpoints: [320,628,936,1244,1552]"},"message":"Cannot read property arrangement of undefined"}
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:2495
+queueEvent @ common.1979cbfd7caeb672e3a6.js:2495
+sendAppErrorEvent @ common.1979cbfd7caeb672e3a6.js:2495
+indexToStandardConverter @ common.1979cbfd7caeb672e3a6.js:2495
+get currentColumnArrangement @ common.1979cbfd7caeb672e3a6.js:2495
+shadowDomPopulated @ common.1979cbfd7caeb672e3a6.js:1273
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+initializeAsync @ common.1979cbfd7caeb672e3a6.js:682
+connectedCallback @ common.1979cbfd7caeb672e3a6.js:682
+define @ microsoft.55acafd989b4fba1402f.js:842
+define @ microsoft.55acafd989b4fba1402f.js:750
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+n @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+experienceConnected @ common.1979cbfd7caeb672e3a6.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+initializeAsync @ common.1979cbfd7caeb672e3a6.js:682
+connectedCallback @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:2495
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+g @ common.1979cbfd7caeb672e3a6.js:2495
+(anonimo) @ experience.2d939e7d2a587cac5ab9.js:199
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+EqUV @ experience.2d939e7d2a587cac5ab9.js:199
+n @ experience.2d939e7d2a587cac5ab9.js:1
+a @ experience.2d939e7d2a587cac5ab9.js:1
+(anonimo) @ experience.2d939e7d2a587cac5ab9.js:1
+(anonimo) @ experience.2d939e7d2a587cac5ab9.js:1
+common.1979cbfd7caeb672e3a6.js:2495 
+        
+       Mon Dec 20 2021 19:45:20 GMT+0100 (Ora standard dell’Europa centrale): 1640025920633 {"id":36705,"severity":1,"pb":{"build":"20211218.25","appType":"edgeChromium","pcsVersion":"20211215.5_master","pcsEnv":"prod","buildAlias":"latest","customMessage":"columnArrangements[undefined] is undefined.columnArrangements: [{\"arrangement\":\"c1\",\"contentSizePx\":300,\"isFirstBreakpoint\":true},{\"arrangement\":\"c2\",\"contentSizePx\":624},{\"arrangement\":\"c3\",\"contentSizePx\":948},{\"arrangement\":\"c4\",\"contentSizePx\":1272},{\"arrangement\":\"c5\",\"contentSizePx\":1532}]; breakpoints: [320,628,936,1244,1552]"},"message":"Cannot read property arrangement of undefined"}
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:2495
+queueEvent @ common.1979cbfd7caeb672e3a6.js:2495
+sendAppErrorEvent @ common.1979cbfd7caeb672e3a6.js:2495
+indexToStandardConverter @ common.1979cbfd7caeb672e3a6.js:2495
+get currentColumnArrangement @ common.1979cbfd7caeb672e3a6.js:2495
+onBreakpointChange @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+shadowDomPopulated @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+initializeAsync @ common.1979cbfd7caeb672e3a6.js:682
+connectedCallback @ common.1979cbfd7caeb672e3a6.js:682
+define @ microsoft.55acafd989b4fba1402f.js:842
+define @ microsoft.55acafd989b4fba1402f.js:750
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+n @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+experienceConnected @ common.1979cbfd7caeb672e3a6.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+initializeAsync @ common.1979cbfd7caeb672e3a6.js:682
+connectedCallback @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:2495
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+g @ common.1979cbfd7caeb672e3a6.js:2495
+(anonimo) @ experience.2d939e7d2a587cac5ab9.js:199
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+EqUV @ experience.2d939e7d2a587cac5ab9.js:199
+n @ experience.2d939e7d2a587cac5ab9.js:1
+a @ experience.2d939e7d2a587cac5ab9.js:1
+(anonimo) @ experience.2d939e7d2a587cac5ab9.js:1
+(anonimo) @ experience.2d939e7d2a587cac5ab9.js:1
+common.1979cbfd7caeb672e3a6.js:2495 
+        
+       Mon Dec 20 2021 19:45:21 GMT+0100 (Ora standard dell’Europa centrale): 1640025921170 {"id":36705,"severity":1,"pb":{"build":"20211218.25","appType":"edgeChromium","pcsVersion":"20211215.5_master","pcsEnv":"prod","buildAlias":"latest","customMessage":"columnArrangements[undefined] is undefined.columnArrangements: [{\"arrangement\":\"c1\",\"contentSizePx\":300,\"isFirstBreakpoint\":true},{\"arrangement\":\"c2\",\"contentSizePx\":624},{\"arrangement\":\"c3\",\"contentSizePx\":948},{\"arrangement\":\"c4\",\"contentSizePx\":1272},{\"arrangement\":\"c5\",\"contentSizePx\":1532}]; breakpoints: [320,628,936,1244,1552]"},"message":"Cannot read property arrangement of undefined"}
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:2495
+queueEvent @ common.1979cbfd7caeb672e3a6.js:2495
+sendAppErrorEvent @ common.1979cbfd7caeb672e3a6.js:2495
+indexToStandardConverter @ common.1979cbfd7caeb672e3a6.js:2495
+get currentColumnArrangement @ common.1979cbfd7caeb672e3a6.js:2495
+onBreakpointChange @ desktop-feed-edgenext-wc.191c27c40bd3f13fc8a8.js:1
+experienceConnected @ desktop-feed-edgenext-wc.191c27c40bd3f13fc8a8.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+initializeAsync @ common.1979cbfd7caeb672e3a6.js:682
+connectedCallback @ common.1979cbfd7caeb672e3a6.js:682
+define @ microsoft.55acafd989b4fba1402f.js:842
+define @ microsoft.55acafd989b4fba1402f.js:750
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+n @ vendors.d2fa022d6e442ac53a16.js:1
+h @ common.1979cbfd7caeb672e3a6.js:1
+(anonimo) @ pivot-content-wc.b891bd198b37e93cb75c.js:16
+observe @ microsoft.55acafd989b4fba1402f.js:1186
+s @ microsoft.55acafd989b4fba1402f.js:518
+bind @ microsoft.55acafd989b4fba1402f.js:518
+f @ microsoft.55acafd989b4fba1402f.js:518
+s @ microsoft.55acafd989b4fba1402f.js:518
+bind @ microsoft.55acafd989b4fba1402f.js:518
+render @ microsoft.55acafd989b4fba1402f.js:1
+renderTemplate @ microsoft.55acafd989b4fba1402f.js:1539
+finishInitialization @ microsoft.55acafd989b4fba1402f.js:1539
+onConnectedCallback @ microsoft.55acafd989b4fba1402f.js:1539
+connectedCallback @ microsoft.55acafd989b4fba1402f.js:750
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+initializeAsync @ common.1979cbfd7caeb672e3a6.js:682
+connectedCallback @ common.1979cbfd7caeb672e3a6.js:682
+define @ microsoft.55acafd989b4fba1402f.js:842
+define @ microsoft.55acafd989b4fba1402f.js:750
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+n @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+experienceConnected @ common.1979cbfd7caeb672e3a6.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+initializeAsync @ common.1979cbfd7caeb672e3a6.js:682
+connectedCallback @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:2495
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+g @ common.1979cbfd7caeb672e3a6.js:2495
+(anonimo) @ experience.2d939e7d2a587cac5ab9.js:199
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+EqUV @ experience.2d939e7d2a587cac5ab9.js:199
+n @ experience.2d939e7d2a587cac5ab9.js:1
+a @ experience.2d939e7d2a587cac5ab9.js:1
+(anonimo) @ experience.2d939e7d2a587cac5ab9.js:1
+(anonimo) @ experience.2d939e7d2a587cac5ab9.js:1
+feed-navigation-header.6a97df8b733b86637cf6.js:419 
+        
+       GET https://assets.msn.com/service/News/Users/Me/Actions?apikey=0QfOX3Vn51YCzitbLaRkTTBadtWpgTN8NZLW0C1SEM&activityId=BF2E321B-AE1E-4C1A-96D7-22A27737553A&ocid=anaheim-dhp-feeds&market=it-it&fdhead=msnallexpusers,muidflt10cf,muidflt13cf,muidflt19cf,muidflt52cf,muidflt58cf,muidflt59cf,prg-onetrust,startedge2cf,platagyedge3cf,pnehp1cf,pnehp3cf,moneyhz3cf,onetrustpoplive,msnapp4cf,1s-bing-news,vebudumu04302020,prg-wpo-adrpm1,prg-wpo-foctt,bbh20200521msn,prg-wpo-newsctrl,prg-wpo-infn7tc,sagehz1cf,msnsports4cf,1s-brsage121421g,prg-1sw-clarity,prg-1sw-wtt1,prg-1sw-enads,prg-1sw-mss,prg-12venuswin,traffic-metadata,prg-1sw-tfmeta,1s-remotecompact,prg-adspeek,prg-sub-filter-2,prg-sub-filter,1s-br30min,btrecrow3,1s-winauthservice,prg-castapi1,1s-winsegservice,prg-1sw-refal,prg-hprewflyout-t,wf-sunny-first,prong2t,1s-pagesegservice,prg-esxboxc,routentpring2t,prg-1sw-usersm,prg-wpo-eofrecc,prg-1s-p2pre,2d1cc1yj,prg-sh-tabgg,425hd665,prg-1sw-n-api2,prg-wx-mf,prg-wx-sn-real,prg-1sw-wdata5,prg-wea-assets&targetType=provider&actionType=Subscribe&$top=100 401
+(anonimo) @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+(anonimo) @ topicData.cdf0e160b723a7060e8b.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+tryRequest @ topicData.cdf0e160b723a7060e8b.js:1
+(anonimo) @ topicData.cdf0e160b723a7060e8b.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ topicData.cdf0e160b723a7060e8b.js:1
+(anonimo) @ topicData.cdf0e160b723a7060e8b.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+executeRequest @ topicData.cdf0e160b723a7060e8b.js:1
+(anonimo) @ topicData.cdf0e160b723a7060e8b.js:1
+(anonimo) @ topicData.cdf0e160b723a7060e8b.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+e.serviceRequestOnComplete @ topicData.cdf0e160b723a7060e8b.js:1
+(anonimo) @ topicData.cdf0e160b723a7060e8b.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+D @ topicData.cdf0e160b723a7060e8b.js:1
+(anonimo) @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+networkRequest @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+(anonimo) @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+sendRequest @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+(anonimo) @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+getSubscribeUserActions @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+(anonimo) @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+getUserSubscriptions @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+(anonimo) @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+requestAnimationFrame (async)
+(anonimo) @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+delayFetchSubscriptions @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+(anonimo) @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+Promise.then (async)
+shadowDomPopulated @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+initializeAsync @ common.1979cbfd7caeb672e3a6.js:682
+connectedCallback @ common.1979cbfd7caeb672e3a6.js:682
+define @ microsoft.55acafd989b4fba1402f.js:842
+define @ microsoft.55acafd989b4fba1402f.js:750
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+n @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+experienceConnected @ common.1979cbfd7caeb672e3a6.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+initializeAsync @ common.1979cbfd7caeb672e3a6.js:682
+connectedCallback @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:2495
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+g @ common.1979cbfd7caeb672e3a6.js:2495
+(anonimo) @ experience.2d939e7d2a587cac5ab9.js:199
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+EqUV @ experience.2d939e7d2a587cac5ab9.js:199
+n @ experience.2d939e7d2a587cac5ab9.js:1
+a @ experience.2d939e7d2a587cac5ab9.js:1
+(anonimo) @ experience.2d939e7d2a587cac5ab9.js:1
+(anonimo) @ experience.2d939e7d2a587cac5ab9.js:1
+Show 5 more frames
+common.1979cbfd7caeb672e3a6.js:2495 
+        
+       Mon Dec 20 2021 19:45:21 GMT+0100 (Ora standard dell’Europa centrale): 1640025921287 {"id":40303,"severity":1,"pb":{"build":"20211218.25","appType":"edgeChromium","pcsVersion":"20211215.5_master","pcsEnv":"prod","buildAlias":"latest","customMessage":"Using OneServiceUrl; ProbableCause: cannot access cookie","url":"https://assets.msn.com/service/news/feed/pages/ntp","activityId":"BF2E321B-AE1E-4C1A-96D7-22A27737553A"},"message":"Cannot get MUID."}
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:2495
+queueEvent @ common.1979cbfd7caeb672e3a6.js:2495
+sendAppErrorEvent @ common.1979cbfd7caeb672e3a6.js:2495
+logMuidError @ desktop-feed-edgenext-wc~desktop-feed-single-column-wc~grid-view-feed~linear-view-feed.384015e0afe4bebc3cea.js:3106
+(anonimo) @ desktop-feed-edgenext-wc~desktop-feed-single-column-wc~grid-view-feed~linear-view-feed.384015e0afe4bebc3cea.js:3106
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+fetchFromWpoService @ desktop-feed-edgenext-wc~desktop-feed-single-column-wc~grid-view-feed~linear-view-feed.384015e0afe4bebc3cea.js:3106
+(anonimo) @ desktop-feed-edgenext-wc~desktop-feed-single-column-wc~grid-view-feed~linear-view-feed.384015e0afe4bebc3cea.js:3106
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+fetchRiverSectionFeedLayoutData @ desktop-feed-edgenext-wc~desktop-feed-single-column-wc~grid-view-feed~linear-view-feed.384015e0afe4bebc3cea.js:3106
+(anonimo) @ desktop-feed-edgenext-wc~desktop-feed-single-column-wc~grid-view-feed~linear-view-feed.384015e0afe4bebc3cea.js:3106
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+fetch @ desktop-feed-edgenext-wc~desktop-feed-single-column-wc~grid-view-feed~linear-view-feed.384015e0afe4bebc3cea.js:3106
+(anonimo) @ desktop-feed-edgenext-wc.191c27c40bd3f13fc8a8.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ desktop-feed-edgenext-wc.191c27c40bd3f13fc8a8.js:1
+(anonimo) @ desktop-feed-edgenext-wc.191c27c40bd3f13fc8a8.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+getContentForNextFeed @ desktop-feed-edgenext-wc.191c27c40bd3f13fc8a8.js:1
+(anonimo) @ desktop-feed-edgenext-wc.191c27c40bd3f13fc8a8.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+renderNextFeed @ desktop-feed-edgenext-wc.191c27c40bd3f13fc8a8.js:1
+initFeed @ desktop-feed-edgenext-wc.191c27c40bd3f13fc8a8.js:1
+experienceConnected @ desktop-feed-edgenext-wc.191c27c40bd3f13fc8a8.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+initializeAsync @ common.1979cbfd7caeb672e3a6.js:682
+connectedCallback @ common.1979cbfd7caeb672e3a6.js:682
+define @ microsoft.55acafd989b4fba1402f.js:842
+define @ microsoft.55acafd989b4fba1402f.js:750
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+n @ vendors.d2fa022d6e442ac53a16.js:1
+h @ common.1979cbfd7caeb672e3a6.js:1
+(anonimo) @ pivot-content-wc.b891bd198b37e93cb75c.js:16
+observe @ microsoft.55acafd989b4fba1402f.js:1186
+s @ microsoft.55acafd989b4fba1402f.js:518
+bind @ microsoft.55acafd989b4fba1402f.js:518
+f @ microsoft.55acafd989b4fba1402f.js:518
+s @ microsoft.55acafd989b4fba1402f.js:518
+bind @ microsoft.55acafd989b4fba1402f.js:518
+render @ microsoft.55acafd989b4fba1402f.js:1
+renderTemplate @ microsoft.55acafd989b4fba1402f.js:1539
+finishInitialization @ microsoft.55acafd989b4fba1402f.js:1539
+onConnectedCallback @ microsoft.55acafd989b4fba1402f.js:1539
+connectedCallback @ microsoft.55acafd989b4fba1402f.js:750
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+initializeAsync @ common.1979cbfd7caeb672e3a6.js:682
+connectedCallback @ common.1979cbfd7caeb672e3a6.js:682
+define @ microsoft.55acafd989b4fba1402f.js:842
+define @ microsoft.55acafd989b4fba1402f.js:750
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+n @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+experienceConnected @ common.1979cbfd7caeb672e3a6.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+initializeAsync @ common.1979cbfd7caeb672e3a6.js:682
+connectedCallback @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:2495
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+g @ common.1979cbfd7caeb672e3a6.js:2495
+(anonimo) @ experience.2d939e7d2a587cac5ab9.js:199
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+EqUV @ experience.2d939e7d2a587cac5ab9.js:199
+n @ experience.2d939e7d2a587cac5ab9.js:1
+a @ experience.2d939e7d2a587cac5ab9.js:1
+(anonimo) @ experience.2d939e7d2a587cac5ab9.js:1
+(anonimo) @ experience.2d939e7d2a587cac5ab9.js:1
+feed-navigation-header.6a97df8b733b86637cf6.js:419 
+        
+       GET https://assets.msn.com/service/News/Users/Me/Actions?apikey=0QfOX3Vn51YCzitbLaRkTTBadtWpgTN8NZLW0C1SEM&activityId=BF2E321B-AE1E-4C1A-96D7-22A27737553A&ocid=anaheim-dhp-feeds&market=it-it&fdhead=msnallexpusers,muidflt10cf,muidflt13cf,muidflt19cf,muidflt52cf,muidflt58cf,muidflt59cf,prg-onetrust,startedge2cf,platagyedge3cf,pnehp1cf,pnehp3cf,moneyhz3cf,onetrustpoplive,msnapp4cf,1s-bing-news,vebudumu04302020,prg-wpo-adrpm1,prg-wpo-foctt,bbh20200521msn,prg-wpo-newsctrl,prg-wpo-infn7tc,sagehz1cf,msnsports4cf,1s-brsage121421g,prg-1sw-clarity,prg-1sw-wtt1,prg-1sw-enads,prg-1sw-mss,prg-12venuswin,traffic-metadata,prg-1sw-tfmeta,1s-remotecompact,prg-adspeek,prg-sub-filter-2,prg-sub-filter,1s-br30min,btrecrow3,1s-winauthservice,prg-castapi1,1s-winsegservice,prg-1sw-refal,prg-hprewflyout-t,wf-sunny-first,prong2t,1s-pagesegservice,prg-esxboxc,routentpring2t,prg-1sw-usersm,prg-wpo-eofrecc,prg-1s-p2pre,2d1cc1yj,prg-sh-tabgg,425hd665,prg-1sw-n-api2,prg-wx-mf,prg-wx-sn-real,prg-1sw-wdata5,prg-wea-assets&targetType=provider&actionType=Subscribe&$top=100 401
+(anonimo) @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+(anonimo) @ topicData.cdf0e160b723a7060e8b.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+tryRequest @ topicData.cdf0e160b723a7060e8b.js:1
+(anonimo) @ topicData.cdf0e160b723a7060e8b.js:1
+setTimeout (async)
+(anonimo) @ topicData.cdf0e160b723a7060e8b.js:1
+c @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+tryRequest @ topicData.cdf0e160b723a7060e8b.js:1
+(anonimo) @ topicData.cdf0e160b723a7060e8b.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ topicData.cdf0e160b723a7060e8b.js:1
+(anonimo) @ topicData.cdf0e160b723a7060e8b.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+executeRequest @ topicData.cdf0e160b723a7060e8b.js:1
+(anonimo) @ topicData.cdf0e160b723a7060e8b.js:1
+(anonimo) @ topicData.cdf0e160b723a7060e8b.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+e.serviceRequestOnComplete @ topicData.cdf0e160b723a7060e8b.js:1
+(anonimo) @ topicData.cdf0e160b723a7060e8b.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+D @ topicData.cdf0e160b723a7060e8b.js:1
+(anonimo) @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+networkRequest @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+(anonimo) @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+sendRequest @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+(anonimo) @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+getSubscribeUserActions @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+(anonimo) @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+getUserSubscriptions @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+(anonimo) @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+requestAnimationFrame (async)
+(anonimo) @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+delayFetchSubscriptions @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+(anonimo) @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+Promise.then (async)
+shadowDomPopulated @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+initializeAsync @ common.1979cbfd7caeb672e3a6.js:682
+connectedCallback @ common.1979cbfd7caeb672e3a6.js:682
+define @ microsoft.55acafd989b4fba1402f.js:842
+define @ microsoft.55acafd989b4fba1402f.js:750
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+n @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+experienceConnected @ common.1979cbfd7caeb672e3a6.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+initializeAsync @ common.1979cbfd7caeb672e3a6.js:682
+connectedCallback @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:2495
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+g @ common.1979cbfd7caeb672e3a6.js:2495
+(anonimo) @ experience.2d939e7d2a587cac5ab9.js:199
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+EqUV @ experience.2d939e7d2a587cac5ab9.js:199
+n @ experience.2d939e7d2a587cac5ab9.js:1
+a @ experience.2d939e7d2a587cac5ab9.js:1
+(anonimo) @ experience.2d939e7d2a587cac5ab9.js:1
+(anonimo) @ experience.2d939e7d2a587cac5ab9.js:1
+feed-navigation-header.6a97df8b733b86637cf6.js:419 
+        
+       GET https://assets.msn.com/service/News/Users/Me/Actions?apikey=0QfOX3Vn51YCzitbLaRkTTBadtWpgTN8NZLW0C1SEM&activityId=BF2E321B-AE1E-4C1A-96D7-22A27737553A&ocid=anaheim-dhp-feeds&market=it-it&fdhead=msnallexpusers,muidflt10cf,muidflt13cf,muidflt19cf,muidflt52cf,muidflt58cf,muidflt59cf,prg-onetrust,startedge2cf,platagyedge3cf,pnehp1cf,pnehp3cf,moneyhz3cf,onetrustpoplive,msnapp4cf,1s-bing-news,vebudumu04302020,prg-wpo-adrpm1,prg-wpo-foctt,bbh20200521msn,prg-wpo-newsctrl,prg-wpo-infn7tc,sagehz1cf,msnsports4cf,1s-brsage121421g,prg-1sw-clarity,prg-1sw-wtt1,prg-1sw-enads,prg-1sw-mss,prg-12venuswin,traffic-metadata,prg-1sw-tfmeta,1s-remotecompact,prg-adspeek,prg-sub-filter-2,prg-sub-filter,1s-br30min,btrecrow3,1s-winauthservice,prg-castapi1,1s-winsegservice,prg-1sw-refal,prg-hprewflyout-t,wf-sunny-first,prong2t,1s-pagesegservice,prg-esxboxc,routentpring2t,prg-1sw-usersm,prg-wpo-eofrecc,prg-1s-p2pre,2d1cc1yj,prg-sh-tabgg,425hd665,prg-1sw-n-api2,prg-wx-mf,prg-wx-sn-real,prg-1sw-wdata5,prg-wea-assets&targetType=provider&actionType=Subscribe&$top=100 401
+(anonimo) @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+(anonimo) @ topicData.cdf0e160b723a7060e8b.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+tryRequest @ topicData.cdf0e160b723a7060e8b.js:1
+(anonimo) @ topicData.cdf0e160b723a7060e8b.js:1
+setTimeout (async)
+(anonimo) @ topicData.cdf0e160b723a7060e8b.js:1
+c @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+tryRequest @ topicData.cdf0e160b723a7060e8b.js:1
+(anonimo) @ topicData.cdf0e160b723a7060e8b.js:1
+setTimeout (async)
+(anonimo) @ topicData.cdf0e160b723a7060e8b.js:1
+c @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+tryRequest @ topicData.cdf0e160b723a7060e8b.js:1
+(anonimo) @ topicData.cdf0e160b723a7060e8b.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ topicData.cdf0e160b723a7060e8b.js:1
+(anonimo) @ topicData.cdf0e160b723a7060e8b.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+executeRequest @ topicData.cdf0e160b723a7060e8b.js:1
+(anonimo) @ topicData.cdf0e160b723a7060e8b.js:1
+(anonimo) @ topicData.cdf0e160b723a7060e8b.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+e.serviceRequestOnComplete @ topicData.cdf0e160b723a7060e8b.js:1
+(anonimo) @ topicData.cdf0e160b723a7060e8b.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+D @ topicData.cdf0e160b723a7060e8b.js:1
+(anonimo) @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+networkRequest @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+(anonimo) @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+sendRequest @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+(anonimo) @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+getSubscribeUserActions @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+(anonimo) @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+getUserSubscriptions @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+(anonimo) @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+requestAnimationFrame (async)
+(anonimo) @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+delayFetchSubscriptions @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+(anonimo) @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+Promise.then (async)
+shadowDomPopulated @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+initializeAsync @ common.1979cbfd7caeb672e3a6.js:682
+connectedCallback @ common.1979cbfd7caeb672e3a6.js:682
+define @ microsoft.55acafd989b4fba1402f.js:842
+define @ microsoft.55acafd989b4fba1402f.js:750
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+n @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+experienceConnected @ common.1979cbfd7caeb672e3a6.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+initializeAsync @ common.1979cbfd7caeb672e3a6.js:682
+connectedCallback @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:2495
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+g @ common.1979cbfd7caeb672e3a6.js:2495
+(anonimo) @ experience.2d939e7d2a587cac5ab9.js:199
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+EqUV @ experience.2d939e7d2a587cac5ab9.js:199
+n @ experience.2d939e7d2a587cac5ab9.js:1
+a @ experience.2d939e7d2a587cac5ab9.js:1
+(anonimo) @ experience.2d939e7d2a587cac5ab9.js:1
+(anonimo) @ experience.2d939e7d2a587cac5ab9.js:1
+common.1979cbfd7caeb672e3a6.js:2495 
+        
+       Mon Dec 20 2021 19:45:22 GMT+0100 (Ora standard dell’Europa centrale): 1640025922835 {"id":36705,"severity":1,"pb":{"build":"20211218.25","appType":"edgeChromium","pcsVersion":"20211215.5_master","pcsEnv":"prod","buildAlias":"latest","customMessage":"columnArrangements[undefined] is undefined.columnArrangements: [{\"arrangement\":\"c1\",\"contentSizePx\":300,\"isFirstBreakpoint\":true},{\"arrangement\":\"c2\",\"contentSizePx\":624},{\"arrangement\":\"c3\",\"contentSizePx\":948},{\"arrangement\":\"c4\",\"contentSizePx\":1272},{\"arrangement\":\"c5\",\"contentSizePx\":1532}]; breakpoints: [320,628,936,1244,1552]"},"message":"Cannot read property arrangement of undefined"}
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:2495
+queueEvent @ common.1979cbfd7caeb672e3a6.js:2495
+sendAppErrorEvent @ common.1979cbfd7caeb672e3a6.js:2495
+indexToStandardConverter @ common.1979cbfd7caeb672e3a6.js:2495
+get currentColumnArrangement @ common.1979cbfd7caeb672e3a6.js:2495
+getOrdinalObjectForCurrentBreakpoint @ common.1979cbfd7caeb672e3a6.js:682
+getChildrenDataConnectorConfigInfos @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+n @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+experienceConnected @ common.1979cbfd7caeb672e3a6.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+initializeAsync @ common.1979cbfd7caeb672e3a6.js:682
+connectedCallback @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:2495
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+g @ common.1979cbfd7caeb672e3a6.js:2495
+(anonimo) @ experience.2d939e7d2a587cac5ab9.js:199
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+EqUV @ experience.2d939e7d2a587cac5ab9.js:199
+n @ experience.2d939e7d2a587cac5ab9.js:1
+a @ experience.2d939e7d2a587cac5ab9.js:1
+(anonimo) @ experience.2d939e7d2a587cac5ab9.js:1
+(anonimo) @ experience.2d939e7d2a587cac5ab9.js:1
+common.1979cbfd7caeb672e3a6.js:2495 
+        
+       Mon Dec 20 2021 19:45:22 GMT+0100 (Ora standard dell’Europa centrale): 1640025922847 {"id":36705,"severity":1,"pb":{"build":"20211218.25","appType":"edgeChromium","pcsVersion":"20211215.5_master","pcsEnv":"prod","buildAlias":"latest","customMessage":"columnArrangements[undefined] is undefined.columnArrangements: [{\"arrangement\":\"c1\",\"contentSizePx\":300,\"isFirstBreakpoint\":true},{\"arrangement\":\"c2\",\"contentSizePx\":624},{\"arrangement\":\"c3\",\"contentSizePx\":948},{\"arrangement\":\"c4\",\"contentSizePx\":1272},{\"arrangement\":\"c5\",\"contentSizePx\":1532}]; breakpoints: [320,628,936,1244,1552]"},"message":"Cannot read property arrangement of undefined"}
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:2495
+queueEvent @ common.1979cbfd7caeb672e3a6.js:2495
+sendAppErrorEvent @ common.1979cbfd7caeb672e3a6.js:2495
+indexToStandardConverter @ common.1979cbfd7caeb672e3a6.js:2495
+get currentColumnArrangement @ common.1979cbfd7caeb672e3a6.js:2495
+getOrdinalObjectForCurrentBreakpoint @ common.1979cbfd7caeb672e3a6.js:682
+getChildrenDataConnectorConfigInfos @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+n @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+experienceConnected @ common.1979cbfd7caeb672e3a6.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+initializeAsync @ common.1979cbfd7caeb672e3a6.js:682
+connectedCallback @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:2495
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+g @ common.1979cbfd7caeb672e3a6.js:2495
+(anonimo) @ experience.2d939e7d2a587cac5ab9.js:199
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+EqUV @ experience.2d939e7d2a587cac5ab9.js:199
+n @ experience.2d939e7d2a587cac5ab9.js:1
+a @ experience.2d939e7d2a587cac5ab9.js:1
+(anonimo) @ experience.2d939e7d2a587cac5ab9.js:1
+(anonimo) @ experience.2d939e7d2a587cac5ab9.js:1
+common.1979cbfd7caeb672e3a6.js:2495 
+        
+       Mon Dec 20 2021 19:45:22 GMT+0100 (Ora standard dell’Europa centrale): 1640025922856 {"id":36705,"severity":1,"pb":{"build":"20211218.25","appType":"edgeChromium","pcsVersion":"20211215.5_master","pcsEnv":"prod","buildAlias":"latest","customMessage":"columnArrangements[undefined] is undefined.columnArrangements: [{\"arrangement\":\"c1\",\"contentSizePx\":300,\"isFirstBreakpoint\":true},{\"arrangement\":\"c2\",\"contentSizePx\":624},{\"arrangement\":\"c3\",\"contentSizePx\":948},{\"arrangement\":\"c4\",\"contentSizePx\":1272},{\"arrangement\":\"c5\",\"contentSizePx\":1532}]; breakpoints: [320,628,936,1244,1552]"},"message":"Cannot read property arrangement of undefined"}
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:2495
+queueEvent @ common.1979cbfd7caeb672e3a6.js:2495
+sendAppErrorEvent @ common.1979cbfd7caeb672e3a6.js:2495
+indexToStandardConverter @ common.1979cbfd7caeb672e3a6.js:2495
+get currentColumnArrangement @ common.1979cbfd7caeb672e3a6.js:2495
+getOrdinalObjectForCurrentBreakpoint @ common.1979cbfd7caeb672e3a6.js:682
+getChildrenDataConnectorConfigInfos @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+n @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+experienceConnected @ common.1979cbfd7caeb672e3a6.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+initializeAsync @ common.1979cbfd7caeb672e3a6.js:682
+connectedCallback @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:2495
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+g @ common.1979cbfd7caeb672e3a6.js:2495
+(anonimo) @ experience.2d939e7d2a587cac5ab9.js:199
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+EqUV @ experience.2d939e7d2a587cac5ab9.js:199
+n @ experience.2d939e7d2a587cac5ab9.js:1
+a @ experience.2d939e7d2a587cac5ab9.js:1
+(anonimo) @ experience.2d939e7d2a587cac5ab9.js:1
+(anonimo) @ experience.2d939e7d2a587cac5ab9.js:1
+common.1979cbfd7caeb672e3a6.js:2495 
+        
+       Mon Dec 20 2021 19:45:23 GMT+0100 (Ora standard dell’Europa centrale): 1640025923505 {"id":22015,"severity":0,"pb":{"build":"20211218.25","appType":"edgeChromium","pcsVersion":"20211215.5_master","pcsEnv":"prod","buildAlias":"latest","customMessage":"IndexedDb bulk read from IndexedDb bulk read failed. Error: UnknownError: The user denied permission to access the database."},"message":"IndexedDb bulk read failed"}
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:2495
+queueEvent @ common.1979cbfd7caeb672e3a6.js:2495
+sendAppErrorEvent @ common.1979cbfd7caeb672e3a6.js:2495
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:1
+Promise.then (async)
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+Te @ common.1979cbfd7caeb672e3a6.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+r @ common.1979cbfd7caeb672e3a6.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:1
+Promise.then (async)
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+Object.incompleteVisualDependencyCallback @ common.1979cbfd7caeb672e3a6.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+reportPerfMarkers @ common.1979cbfd7caeb672e3a6.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+experienceConnected @ common.1979cbfd7caeb672e3a6.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+initializeAsync @ common.1979cbfd7caeb672e3a6.js:682
+connectedCallback @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:2495
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+g @ common.1979cbfd7caeb672e3a6.js:2495
+(anonimo) @ experience.2d939e7d2a587cac5ab9.js:199
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+EqUV @ experience.2d939e7d2a587cac5ab9.js:199
+n @ experience.2d939e7d2a587cac5ab9.js:1
+a @ experience.2d939e7d2a587cac5ab9.js:1
+(anonimo) @ experience.2d939e7d2a587cac5ab9.js:1
+(anonimo) @ experience.2d939e7d2a587cac5ab9.js:1
+feed-navigation-header.6a97df8b733b86637cf6.js:419 
+        
+       GET https://assets.msn.com/service/News/Users/Me/Actions?apikey=0QfOX3Vn51YCzitbLaRkTTBadtWpgTN8NZLW0C1SEM&activityId=BF2E321B-AE1E-4C1A-96D7-22A27737553A&ocid=anaheim-dhp-feeds&market=it-it&fdhead=msnallexpusers,muidflt10cf,muidflt13cf,muidflt19cf,muidflt52cf,muidflt58cf,muidflt59cf,prg-onetrust,startedge2cf,platagyedge3cf,pnehp1cf,pnehp3cf,moneyhz3cf,onetrustpoplive,msnapp4cf,1s-bing-news,vebudumu04302020,prg-wpo-adrpm1,prg-wpo-foctt,bbh20200521msn,prg-wpo-newsctrl,prg-wpo-infn7tc,sagehz1cf,msnsports4cf,1s-brsage121421g,prg-1sw-clarity,prg-1sw-wtt1,prg-1sw-enads,prg-1sw-mss,prg-12venuswin,traffic-metadata,prg-1sw-tfmeta,1s-remotecompact,prg-adspeek,prg-sub-filter-2,prg-sub-filter,1s-br30min,btrecrow3,1s-winauthservice,prg-castapi1,1s-winsegservice,prg-1sw-refal,prg-hprewflyout-t,wf-sunny-first,prong2t,1s-pagesegservice,prg-esxboxc,routentpring2t,prg-1sw-usersm,prg-wpo-eofrecc,prg-1s-p2pre,2d1cc1yj,prg-sh-tabgg,425hd665,prg-1sw-n-api2,prg-wx-mf,prg-wx-sn-real,prg-1sw-wdata5,prg-wea-assets&targetType=provider&actionType=Subscribe&$top=100 401
+(anonimo) @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+(anonimo) @ topicData.cdf0e160b723a7060e8b.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+tryRequest @ topicData.cdf0e160b723a7060e8b.js:1
+(anonimo) @ topicData.cdf0e160b723a7060e8b.js:1
+setTimeout (async)
+(anonimo) @ topicData.cdf0e160b723a7060e8b.js:1
+c @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+tryRequest @ topicData.cdf0e160b723a7060e8b.js:1
+(anonimo) @ topicData.cdf0e160b723a7060e8b.js:1
+setTimeout (async)
+(anonimo) @ topicData.cdf0e160b723a7060e8b.js:1
+c @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+tryRequest @ topicData.cdf0e160b723a7060e8b.js:1
+(anonimo) @ topicData.cdf0e160b723a7060e8b.js:1
+setTimeout (async)
+(anonimo) @ topicData.cdf0e160b723a7060e8b.js:1
+c @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+tryRequest @ topicData.cdf0e160b723a7060e8b.js:1
+(anonimo) @ topicData.cdf0e160b723a7060e8b.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ topicData.cdf0e160b723a7060e8b.js:1
+(anonimo) @ topicData.cdf0e160b723a7060e8b.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+executeRequest @ topicData.cdf0e160b723a7060e8b.js:1
+(anonimo) @ topicData.cdf0e160b723a7060e8b.js:1
+(anonimo) @ topicData.cdf0e160b723a7060e8b.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+e.serviceRequestOnComplete @ topicData.cdf0e160b723a7060e8b.js:1
+(anonimo) @ topicData.cdf0e160b723a7060e8b.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+D @ topicData.cdf0e160b723a7060e8b.js:1
+(anonimo) @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+networkRequest @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+(anonimo) @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+sendRequest @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+(anonimo) @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+getSubscribeUserActions @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+(anonimo) @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+getUserSubscriptions @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+(anonimo) @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+requestAnimationFrame (async)
+(anonimo) @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+delayFetchSubscriptions @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+(anonimo) @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+Promise.then (async)
+shadowDomPopulated @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+initializeAsync @ common.1979cbfd7caeb672e3a6.js:682
+connectedCallback @ common.1979cbfd7caeb672e3a6.js:682
+define @ microsoft.55acafd989b4fba1402f.js:842
+define @ microsoft.55acafd989b4fba1402f.js:750
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+n @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+experienceConnected @ common.1979cbfd7caeb672e3a6.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+initializeAsync @ common.1979cbfd7caeb672e3a6.js:682
+connectedCallback @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:2495
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+g @ common.1979cbfd7caeb672e3a6.js:2495
+(anonimo) @ experience.2d939e7d2a587cac5ab9.js:199
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+EqUV @ experience.2d939e7d2a587cac5ab9.js:199
+n @ experience.2d939e7d2a587cac5ab9.js:1
+a @ experience.2d939e7d2a587cac5ab9.js:1
+(anonimo) @ experience.2d939e7d2a587cac5ab9.js:1
+(anonimo) @ experience.2d939e7d2a587cac5ab9.js:1
+vendors.d2fa022d6e442ac53a16.js:1 
+        
+       Request has failed. a {Message: 'Request has failed.', LogType: 0, ActivityId: '6ab4750f-129d-4f7c-9a62-eaa4fbefd4be', LogDateTime: Mon Dec 20 2021 19:45:23 GMT+0100 (Ora standard dell’Europa centrale), ParentActivityId: '', …} Mon Dec 20 2021 19:45:23 GMT+0100 (Ora standard dell’Europa centrale)
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+log @ vendors.d2fa022d6e442ac53a16.js:1
+append @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+log @ vendors.d2fa022d6e442ac53a16.js:1
+error @ vendors.d2fa022d6e442ac53a16.js:1
+errorCallback @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ topicData.cdf0e160b723a7060e8b.js:1
+c @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+tryRequest @ topicData.cdf0e160b723a7060e8b.js:1
+(anonimo) @ topicData.cdf0e160b723a7060e8b.js:1
+setTimeout (async)
+(anonimo) @ topicData.cdf0e160b723a7060e8b.js:1
+c @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+tryRequest @ topicData.cdf0e160b723a7060e8b.js:1
+(anonimo) @ topicData.cdf0e160b723a7060e8b.js:1
+setTimeout (async)
+(anonimo) @ topicData.cdf0e160b723a7060e8b.js:1
+c @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+tryRequest @ topicData.cdf0e160b723a7060e8b.js:1
+(anonimo) @ topicData.cdf0e160b723a7060e8b.js:1
+setTimeout (async)
+(anonimo) @ topicData.cdf0e160b723a7060e8b.js:1
+c @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+tryRequest @ topicData.cdf0e160b723a7060e8b.js:1
+(anonimo) @ topicData.cdf0e160b723a7060e8b.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ topicData.cdf0e160b723a7060e8b.js:1
+(anonimo) @ topicData.cdf0e160b723a7060e8b.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+executeRequest @ topicData.cdf0e160b723a7060e8b.js:1
+(anonimo) @ topicData.cdf0e160b723a7060e8b.js:1
+(anonimo) @ topicData.cdf0e160b723a7060e8b.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+e.serviceRequestOnComplete @ topicData.cdf0e160b723a7060e8b.js:1
+(anonimo) @ topicData.cdf0e160b723a7060e8b.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+D @ topicData.cdf0e160b723a7060e8b.js:1
+(anonimo) @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+networkRequest @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+(anonimo) @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+sendRequest @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+(anonimo) @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+getSubscribeUserActions @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+(anonimo) @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+getUserSubscriptions @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+(anonimo) @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+requestAnimationFrame (async)
+(anonimo) @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+delayFetchSubscriptions @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+(anonimo) @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+Promise.then (async)
+shadowDomPopulated @ feed-navigation-header.6a97df8b733b86637cf6.js:419
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+initializeAsync @ common.1979cbfd7caeb672e3a6.js:682
+connectedCallback @ common.1979cbfd7caeb672e3a6.js:682
+define @ microsoft.55acafd989b4fba1402f.js:842
+define @ microsoft.55acafd989b4fba1402f.js:750
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+n @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+experienceConnected @ common.1979cbfd7caeb672e3a6.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+initializeAsync @ common.1979cbfd7caeb672e3a6.js:682
+connectedCallback @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:2495
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+g @ common.1979cbfd7caeb672e3a6.js:2495
+(anonimo) @ experience.2d939e7d2a587cac5ab9.js:199
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+EqUV @ experience.2d939e7d2a587cac5ab9.js:199
+n @ experience.2d939e7d2a587cac5ab9.js:1
+a @ experience.2d939e7d2a587cac5ab9.js:1
+(anonimo) @ experience.2d939e7d2a587cac5ab9.js:1
+(anonimo) @ experience.2d939e7d2a587cac5ab9.js:1
+ntp:1 
+        
+       Tracking Prevention blocked access to storage for https://s.yimg.com/lo/api/res/1.2/8.Hqd.ol6JInIP_JDxSnEg--~A/Zmk9Zml0O3c9NjI0O2g9MzUwO2FwcGlkPWdlbWluaTtxPTEwMA--/https://s.yimg.com/av/ads/1638186993544-2463.jpg.
+s-img.mgid.net/g/11507018/624x350/-/aHR0cDovL2NsLmltZ2hvc3RzLmNvbS9pbWdoL2ltYWdlL2ZldGNoL2FyXzE2OjksY19maWxsLGVfc2F0dXJhdGlvbjo0MCxmX2pwZyxnX2ZhY2VzOmF1dG8sd18xMDIwL2h0dHA6Ly9pbWdob3N0cy5jb20vdC8yMDIxLTExLzMzMDgzOC9lZTJlZDNlN2I3OGYxNGUwNmI2MGI4Mzk0NDE4ZDZlYy5qcGc.jpg?h=d52915f6e3c9a030c8fd6eaef3df5b7c&impid=edgechrntp-infopane-11&uuid=fcbd8971-61c4-11ec-a613-e43d1a0bd440&v=1640025922-EMYyC7v-4ysWJAsLYh13Jq2y1_BIPsMLFFPABRiiZeU:1 
+        
+       GET https://s-img.mgid.net/g/11507018/624x350/-/aHR0cDovL2NsLmltZ2hvc3RzLmNvbS9pbWdoL2ltYWdlL2ZldGNoL2FyXzE2OjksY19maWxsLGVfc2F0dXJhdGlvbjo0MCxmX2pwZyxnX2ZhY2VzOmF1dG8sd18xMDIwL2h0dHA6Ly9pbWdob3N0cy5jb20vdC8yMDIxLTExLzMzMDgzOC9lZTJlZDNlN2I3OGYxNGUwNmI2MGI4Mzk0NDE4ZDZlYy5qcGc.jpg?h=d52915f6e3c9a030c8fd6eaef3df5b7c&impid=edgechrntp-infopane-11&uuid=fcbd8971-61c4-11ec-a613-e43d1a0bd440&v=1640025922-EMYyC7v-4ysWJAsLYh13Jq2y1_BIPsMLFFPABRiiZeU net::ERR_CERT_DATE_INVALID
+Image (async)
+setAttribute @ microsoft.55acafd989b4fba1402f.js:1
+h @ microsoft.55acafd989b4fba1402f.js:518
+s @ microsoft.55acafd989b4fba1402f.js:518
+bind @ microsoft.55acafd989b4fba1402f.js:518
+f @ microsoft.55acafd989b4fba1402f.js:518
+s @ microsoft.55acafd989b4fba1402f.js:518
+bind @ microsoft.55acafd989b4fba1402f.js:518
+f @ microsoft.55acafd989b4fba1402f.js:518
+s @ microsoft.55acafd989b4fba1402f.js:518
+bind @ microsoft.55acafd989b4fba1402f.js:518
+f @ microsoft.55acafd989b4fba1402f.js:518
+s @ microsoft.55acafd989b4fba1402f.js:518
+bind @ microsoft.55acafd989b4fba1402f.js:518
+f @ microsoft.55acafd989b4fba1402f.js:518
+s @ microsoft.55acafd989b4fba1402f.js:518
+bind @ microsoft.55acafd989b4fba1402f.js:518
+u @ microsoft.55acafd989b4fba1402f.js:842
+refreshAllViews @ microsoft.55acafd989b4fba1402f.js:842
+bind @ microsoft.55acafd989b4fba1402f.js:842
+bind @ microsoft.55acafd989b4fba1402f.js:518
+f @ microsoft.55acafd989b4fba1402f.js:518
+s @ microsoft.55acafd989b4fba1402f.js:518
+bind @ microsoft.55acafd989b4fba1402f.js:518
+h @ microsoft.55acafd989b4fba1402f.js:842
+refreshAllViews @ microsoft.55acafd989b4fba1402f.js:842
+bind @ microsoft.55acafd989b4fba1402f.js:842
+bind @ microsoft.55acafd989b4fba1402f.js:518
+f @ microsoft.55acafd989b4fba1402f.js:518
+s @ microsoft.55acafd989b4fba1402f.js:518
+bind @ microsoft.55acafd989b4fba1402f.js:518
+u @ microsoft.55acafd989b4fba1402f.js:842
+refreshAllViews @ microsoft.55acafd989b4fba1402f.js:842
+handleChange @ microsoft.55acafd989b4fba1402f.js:842
+notify @ microsoft.55acafd989b4fba1402f.js:518
+call @ microsoft.55acafd989b4fba1402f.js:1186
+l @ microsoft.55acafd989b4fba1402f.js:1
+processUpdates @ microsoft.55acafd989b4fba1402f.js:1
+requestAnimationFrame (async)
+queueUpdate @ microsoft.55acafd989b4fba1402f.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:1
+r @ common.1979cbfd7caeb672e3a6.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+recalculate @ common.1979cbfd7caeb672e3a6.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+initialCalc @ common.1979cbfd7caeb672e3a6.js:1
+bind @ common.1979cbfd7caeb672e3a6.js:1
+bind @ microsoft.55acafd989b4fba1402f.js:518
+render @ microsoft.55acafd989b4fba1402f.js:1
+renderTemplate @ microsoft.55acafd989b4fba1402f.js:1539
+finishInitialization @ microsoft.55acafd989b4fba1402f.js:1539
+onConnectedCallback @ microsoft.55acafd989b4fba1402f.js:1539
+connectedCallback @ microsoft.55acafd989b4fba1402f.js:750
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+initializeAsync @ common.1979cbfd7caeb672e3a6.js:682
+connectedCallback @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:2495
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+g @ common.1979cbfd7caeb672e3a6.js:2495
+(anonimo) @ experience.2d939e7d2a587cac5ab9.js:199
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+EqUV @ experience.2d939e7d2a587cac5ab9.js:199
+n @ experience.2d939e7d2a587cac5ab9.js:1
+a @ experience.2d939e7d2a587cac5ab9.js:1
+(anonimo) @ experience.2d939e7d2a587cac5ab9.js:1
+(anonimo) @ experience.2d939e7d2a587cac5ab9.js:1
+Show 7 more frames
+s-img.mgid.net/g/11507018/624x350/-/aHR0cDovL2NsLmltZ2hvc3RzLmNvbS9pbWdoL2ltYWdlL2ZldGNoL2FyXzE2OjksY19maWxsLGVfc2F0dXJhdGlvbjo0MCxmX2pwZyxnX2ZhY2VzOmF1dG8sd18xMDIwL2h0dHA6Ly9pbWdob3N0cy5jb20vdC8yMDIxLTExLzMzMDgzOC9lZTJlZDNlN2I3OGYxNGUwNmI2MGI4Mzk0NDE4ZDZlYy5qcGc.jpg?h=d52915f6e3c9a030c8fd6eaef3df5b7c&impid=edgechrntp-infopane-11&uuid=fcbd8971-61c4-11ec-a613-e43d1a0bd440&v=1640025922-EMYyC7v-4ysWJAsLYh13Jq2y1_BIPsMLFFPABRiiZeU:1 
+        
+       GET https://s-img.mgid.net/g/11507018/624x350/-/aHR0cDovL2NsLmltZ2hvc3RzLmNvbS9pbWdoL2ltYWdlL2ZldGNoL2FyXzE2OjksY19maWxsLGVfc2F0dXJhdGlvbjo0MCxmX2pwZyxnX2ZhY2VzOmF1dG8sd18xMDIwL2h0dHA6Ly9pbWdob3N0cy5jb20vdC8yMDIxLTExLzMzMDgzOC9lZTJlZDNlN2I3OGYxNGUwNmI2MGI4Mzk0NDE4ZDZlYy5qcGc.jpg?h=d52915f6e3c9a030c8fd6eaef3df5b7c&impid=edgechrntp-infopane-11&uuid=fcbd8971-61c4-11ec-a613-e43d1a0bd440&v=1640025922-EMYyC7v-4ysWJAsLYh13Jq2y1_BIPsMLFFPABRiiZeU net::ERR_CERT_DATE_INVALID
+Image (async)
+setAttribute @ microsoft.55acafd989b4fba1402f.js:1
+h @ microsoft.55acafd989b4fba1402f.js:518
+s @ microsoft.55acafd989b4fba1402f.js:518
+bind @ microsoft.55acafd989b4fba1402f.js:518
+f @ microsoft.55acafd989b4fba1402f.js:518
+s @ microsoft.55acafd989b4fba1402f.js:518
+bind @ microsoft.55acafd989b4fba1402f.js:518
+f @ microsoft.55acafd989b4fba1402f.js:518
+s @ microsoft.55acafd989b4fba1402f.js:518
+bind @ microsoft.55acafd989b4fba1402f.js:518
+f @ microsoft.55acafd989b4fba1402f.js:518
+s @ microsoft.55acafd989b4fba1402f.js:518
+bind @ microsoft.55acafd989b4fba1402f.js:518
+f @ microsoft.55acafd989b4fba1402f.js:518
+s @ microsoft.55acafd989b4fba1402f.js:518
+bind @ microsoft.55acafd989b4fba1402f.js:518
+u @ microsoft.55acafd989b4fba1402f.js:842
+refreshAllViews @ microsoft.55acafd989b4fba1402f.js:842
+bind @ microsoft.55acafd989b4fba1402f.js:842
+bind @ microsoft.55acafd989b4fba1402f.js:518
+f @ microsoft.55acafd989b4fba1402f.js:518
+s @ microsoft.55acafd989b4fba1402f.js:518
+bind @ microsoft.55acafd989b4fba1402f.js:518
+h @ microsoft.55acafd989b4fba1402f.js:842
+refreshAllViews @ microsoft.55acafd989b4fba1402f.js:842
+bind @ microsoft.55acafd989b4fba1402f.js:842
+bind @ microsoft.55acafd989b4fba1402f.js:518
+f @ microsoft.55acafd989b4fba1402f.js:518
+s @ microsoft.55acafd989b4fba1402f.js:518
+bind @ microsoft.55acafd989b4fba1402f.js:518
+u @ microsoft.55acafd989b4fba1402f.js:842
+refreshAllViews @ microsoft.55acafd989b4fba1402f.js:842
+handleChange @ microsoft.55acafd989b4fba1402f.js:842
+notify @ microsoft.55acafd989b4fba1402f.js:518
+call @ microsoft.55acafd989b4fba1402f.js:1186
+l @ microsoft.55acafd989b4fba1402f.js:1
+processUpdates @ microsoft.55acafd989b4fba1402f.js:1
+requestAnimationFrame (async)
+queueUpdate @ microsoft.55acafd989b4fba1402f.js:1
+handleChange @ microsoft.55acafd989b4fba1402f.js:1186
+notify @ microsoft.55acafd989b4fba1402f.js:518
+notify @ microsoft.55acafd989b4fba1402f.js:518
+setValue @ microsoft.55acafd989b4fba1402f.js:1186
+set @ microsoft.55acafd989b4fba1402f.js:1186
+updateNativeAdInRiverSections @ desktop-feed-edgenext-wc.191c27c40bd3f13fc8a8.js:1
+(anonimo) @ desktop-feed-edgenext-wc.191c27c40bd3f13fc8a8.js:1
+(anonimo) @ desktop-feed-edgenext-wc~desktop-feed-single-column-wc~grid-view-feed~linear-view-feed.384015e0afe4bebc3cea.js:3368
+handleCmsStandyPlacement @ desktop-feed-edgenext-wc~desktop-feed-single-column-wc~grid-view-feed~linear-view-feed.384015e0afe4bebc3cea.js:3368
+(anonimo) @ desktop-feed-edgenext-wc~desktop-feed-single-column-wc~grid-view-feed~linear-view-feed.384015e0afe4bebc3cea.js:3368
+Promise.then (async)
+loadCmsBackFillList @ desktop-feed-edgenext-wc~desktop-feed-single-column-wc~grid-view-feed~linear-view-feed.384015e0afe4bebc3cea.js:3368
+(anonimo) @ desktop-feed-edgenext-wc.191c27c40bd3f13fc8a8.js:1
+Promise.then (async)
+gt @ desktop-feed-edgenext-wc.191c27c40bd3f13fc8a8.js:1
+experienceConnected @ desktop-feed-edgenext-wc.191c27c40bd3f13fc8a8.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+initializeAsync @ common.1979cbfd7caeb672e3a6.js:682
+connectedCallback @ common.1979cbfd7caeb672e3a6.js:682
+define @ microsoft.55acafd989b4fba1402f.js:842
+define @ microsoft.55acafd989b4fba1402f.js:750
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+n @ vendors.d2fa022d6e442ac53a16.js:1
+h @ common.1979cbfd7caeb672e3a6.js:1
+(anonimo) @ pivot-content-wc.b891bd198b37e93cb75c.js:16
+observe @ microsoft.55acafd989b4fba1402f.js:1186
+s @ microsoft.55acafd989b4fba1402f.js:518
+bind @ microsoft.55acafd989b4fba1402f.js:518
+f @ microsoft.55acafd989b4fba1402f.js:518
+s @ microsoft.55acafd989b4fba1402f.js:518
+bind @ microsoft.55acafd989b4fba1402f.js:518
+render @ microsoft.55acafd989b4fba1402f.js:1
+renderTemplate @ microsoft.55acafd989b4fba1402f.js:1539
+finishInitialization @ microsoft.55acafd989b4fba1402f.js:1539
+onConnectedCallback @ microsoft.55acafd989b4fba1402f.js:1539
+connectedCallback @ microsoft.55acafd989b4fba1402f.js:750
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+initializeAsync @ common.1979cbfd7caeb672e3a6.js:682
+connectedCallback @ common.1979cbfd7caeb672e3a6.js:682
+define @ microsoft.55acafd989b4fba1402f.js:842
+define @ microsoft.55acafd989b4fba1402f.js:750
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+n @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+experienceConnected @ common.1979cbfd7caeb672e3a6.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+initializeAsync @ common.1979cbfd7caeb672e3a6.js:682
+connectedCallback @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:2495
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+g @ common.1979cbfd7caeb672e3a6.js:2495
+(anonimo) @ experience.2d939e7d2a587cac5ab9.js:199
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+EqUV @ experience.2d939e7d2a587cac5ab9.js:199
+n @ experience.2d939e7d2a587cac5ab9.js:1
+a @ experience.2d939e7d2a587cac5ab9.js:1
+(anonimo) @ experience.2d939e7d2a587cac5ab9.js:1
+(anonimo) @ experience.2d939e7d2a587cac5ab9.js:1
+Show 7 more frames
+s-img.mgid.net/g/11507018/624x350/-/aHR0cDovL2NsLmltZ2hvc3RzLmNvbS9pbWdoL2ltYWdlL2ZldGNoL2FyXzE2OjksY19maWxsLGVfc2F0dXJhdGlvbjo0MCxmX2pwZyxnX2ZhY2VzOmF1dG8sd18xMDIwL2h0dHA6Ly9pbWdob3N0cy5jb20vdC8yMDIxLTExLzMzMDgzOC9lZTJlZDNlN2I3OGYxNGUwNmI2MGI4Mzk0NDE4ZDZlYy5qcGc.jpg?h=d52915f6e3c9a030c8fd6eaef3df5b7c&impid=edgechrntp-infopane-11&uuid=fcbd8971-61c4-11ec-a613-e43d1a0bd440&v=1640025922-EMYyC7v-4ysWJAsLYh13Jq2y1_BIPsMLFFPABRiiZeU:1 
+        
+       GET https://s-img.mgid.net/g/11507018/624x350/-/aHR0cDovL2NsLmltZ2hvc3RzLmNvbS9pbWdoL2ltYWdlL2ZldGNoL2FyXzE2OjksY19maWxsLGVfc2F0dXJhdGlvbjo0MCxmX2pwZyxnX2ZhY2VzOmF1dG8sd18xMDIwL2h0dHA6Ly9pbWdob3N0cy5jb20vdC8yMDIxLTExLzMzMDgzOC9lZTJlZDNlN2I3OGYxNGUwNmI2MGI4Mzk0NDE4ZDZlYy5qcGc.jpg?h=d52915f6e3c9a030c8fd6eaef3df5b7c&impid=edgechrntp-infopane-11&uuid=fcbd8971-61c4-11ec-a613-e43d1a0bd440&v=1640025922-EMYyC7v-4ysWJAsLYh13Jq2y1_BIPsMLFFPABRiiZeU net::ERR_CERT_DATE_INVALID
+Image (async)
+setAttribute @ microsoft.55acafd989b4fba1402f.js:1
+h @ microsoft.55acafd989b4fba1402f.js:518
+s @ microsoft.55acafd989b4fba1402f.js:518
+bind @ microsoft.55acafd989b4fba1402f.js:518
+f @ microsoft.55acafd989b4fba1402f.js:518
+s @ microsoft.55acafd989b4fba1402f.js:518
+bind @ microsoft.55acafd989b4fba1402f.js:518
+f @ microsoft.55acafd989b4fba1402f.js:518
+s @ microsoft.55acafd989b4fba1402f.js:518
+bind @ microsoft.55acafd989b4fba1402f.js:518
+f @ microsoft.55acafd989b4fba1402f.js:518
+s @ microsoft.55acafd989b4fba1402f.js:518
+bind @ microsoft.55acafd989b4fba1402f.js:518
+f @ microsoft.55acafd989b4fba1402f.js:518
+s @ microsoft.55acafd989b4fba1402f.js:518
+bind @ microsoft.55acafd989b4fba1402f.js:518
+u @ microsoft.55acafd989b4fba1402f.js:842
+refreshAllViews @ microsoft.55acafd989b4fba1402f.js:842
+bind @ microsoft.55acafd989b4fba1402f.js:842
+bind @ microsoft.55acafd989b4fba1402f.js:518
+f @ microsoft.55acafd989b4fba1402f.js:518
+s @ microsoft.55acafd989b4fba1402f.js:518
+bind @ microsoft.55acafd989b4fba1402f.js:518
+h @ microsoft.55acafd989b4fba1402f.js:842
+refreshAllViews @ microsoft.55acafd989b4fba1402f.js:842
+bind @ microsoft.55acafd989b4fba1402f.js:842
+bind @ microsoft.55acafd989b4fba1402f.js:518
+f @ microsoft.55acafd989b4fba1402f.js:518
+s @ microsoft.55acafd989b4fba1402f.js:518
+bind @ microsoft.55acafd989b4fba1402f.js:518
+u @ microsoft.55acafd989b4fba1402f.js:842
+refreshAllViews @ microsoft.55acafd989b4fba1402f.js:842
+handleChange @ microsoft.55acafd989b4fba1402f.js:842
+notify @ microsoft.55acafd989b4fba1402f.js:518
+call @ microsoft.55acafd989b4fba1402f.js:1186
+l @ microsoft.55acafd989b4fba1402f.js:1
+processUpdates @ microsoft.55acafd989b4fba1402f.js:1
+requestAnimationFrame (async)
+queueUpdate @ microsoft.55acafd989b4fba1402f.js:1
+handleChange @ microsoft.55acafd989b4fba1402f.js:1186
+notify @ microsoft.55acafd989b4fba1402f.js:518
+notify @ microsoft.55acafd989b4fba1402f.js:518
+setValue @ microsoft.55acafd989b4fba1402f.js:1186
+set @ microsoft.55acafd989b4fba1402f.js:1186
+updateNativeAdInRiverSections @ desktop-feed-edgenext-wc.191c27c40bd3f13fc8a8.js:1
+(anonimo) @ desktop-feed-edgenext-wc.191c27c40bd3f13fc8a8.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+fetchAndHandleCmsAds @ desktop-feed-edgenext-wc.191c27c40bd3f13fc8a8.js:1
+(anonimo) @ desktop-feed-edgenext-wc.191c27c40bd3f13fc8a8.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+initAtFirst @ desktop-feed-edgenext-wc.191c27c40bd3f13fc8a8.js:1
+(anonimo) @ desktop-feed-edgenext-wc.191c27c40bd3f13fc8a8.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+renderNextFeed @ desktop-feed-edgenext-wc.191c27c40bd3f13fc8a8.js:1
+initFeed @ desktop-feed-edgenext-wc.191c27c40bd3f13fc8a8.js:1
+experienceConnected @ desktop-feed-edgenext-wc.191c27c40bd3f13fc8a8.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+initializeAsync @ common.1979cbfd7caeb672e3a6.js:682
+connectedCallback @ common.1979cbfd7caeb672e3a6.js:682
+define @ microsoft.55acafd989b4fba1402f.js:842
+define @ microsoft.55acafd989b4fba1402f.js:750
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+n @ vendors.d2fa022d6e442ac53a16.js:1
+h @ common.1979cbfd7caeb672e3a6.js:1
+(anonimo) @ pivot-content-wc.b891bd198b37e93cb75c.js:16
+observe @ microsoft.55acafd989b4fba1402f.js:1186
+s @ microsoft.55acafd989b4fba1402f.js:518
+bind @ microsoft.55acafd989b4fba1402f.js:518
+f @ microsoft.55acafd989b4fba1402f.js:518
+s @ microsoft.55acafd989b4fba1402f.js:518
+bind @ microsoft.55acafd989b4fba1402f.js:518
+render @ microsoft.55acafd989b4fba1402f.js:1
+renderTemplate @ microsoft.55acafd989b4fba1402f.js:1539
+finishInitialization @ microsoft.55acafd989b4fba1402f.js:1539
+onConnectedCallback @ microsoft.55acafd989b4fba1402f.js:1539
+connectedCallback @ microsoft.55acafd989b4fba1402f.js:750
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+initializeAsync @ common.1979cbfd7caeb672e3a6.js:682
+connectedCallback @ common.1979cbfd7caeb672e3a6.js:682
+define @ microsoft.55acafd989b4fba1402f.js:842
+define @ microsoft.55acafd989b4fba1402f.js:750
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+n @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+experienceConnected @ common.1979cbfd7caeb672e3a6.js:1
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:682
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+initializeAsync @ common.1979cbfd7caeb672e3a6.js:682
+connectedCallback @ common.1979cbfd7caeb672e3a6.js:682
+(anonimo) @ common.1979cbfd7caeb672e3a6.js:2495
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+g @ common.1979cbfd7caeb672e3a6.js:2495
+(anonimo) @ experience.2d939e7d2a587cac5ab9.js:199
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+i @ vendors.d2fa022d6e442ac53a16.js:1
+Promise.then (async)
+u @ vendors.d2fa022d6e442ac53a16.js:1
+(anonimo) @ vendors.d2fa022d6e442ac53a16.js:1
+a @ vendors.d2fa022d6e442ac53a16.js:1
+EqUV @ experience.2d939e7d2a587cac5ab9.js:199
+n @ experience.2d939e7d2a587cac5ab9.js:1
+a @ experience.2d939e7d2a587cac5ab9.js:1
+(anonimo) @ experience.2d939e7d2a587cac5ab9.js:1
+(anonimo) @ experience.2d939e7d2a587cac5ab9.js:1
+Show 7 more frames
